@@ -19,6 +19,6 @@
     "nodemon": "~1.18.10",
     "express-validator": "~5.3.1",
     "hash.js": "~1.1.7",
-    "jsonwebtoken": "~8.5.0"
+    "jsonwebtoken": "~9.0.0"
   }
 }
